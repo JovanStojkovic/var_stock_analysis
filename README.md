@@ -9,7 +9,7 @@ This project performs a financial risk analysis of Continental AG's stock using 
 
 ## Files Included
 
-- `ADA_VaR_Stojkovic.py` — Python script for data loading, modeling, simulation, and visualization  
+- `Continental_Stock_Price.py` — Python script for data loading, modeling, simulation, and visualization  
 - `monte_carlo_paths.png` — Simulated stock price paths with average trend line  
 - `final_price_distribution.png` — Histogram of simulated final prices with quantile markers  
 - `volatility_over_time.png` — Time series of GARCH-estimated volatility  
@@ -36,7 +36,7 @@ pip install yfinance pandas numpy matplotlib arch
 2. Make sure all files are in the same folder.  
 3. Run the Python script by opening a terminal/command prompt and typing:
 
-python ADA_VaR_Stojkovic.py
+python Continental_Stock_Price.py
 
 
 The script will display charts and print key metrics in the console.
