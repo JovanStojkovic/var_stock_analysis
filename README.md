@@ -27,8 +27,8 @@ This project performs a financial risk analysis of Continental AG's stock using 
 
 Install the required Python packages using pip:
 
-```bash
 pip install yfinance pandas numpy matplotlib arch
+
 How to Run
 Download or clone the repository.
 
@@ -36,10 +36,8 @@ Ensure all files are in the same folder.
 
 Run the Python script:
 
-bash
-Copy
-Edit
 python ADA_VaR_Stojkovic.py
+
 The script will output charts and key metrics in the console.
 
 Notes
