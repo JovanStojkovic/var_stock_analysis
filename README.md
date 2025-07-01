@@ -50,7 +50,7 @@ The script will display charts and print key metrics in the console.
 
 ## Author
 
-**Jovan Stojković**  
+**Jovan Stojkovic**  
 Master's student in Advanced Data Analytics in Business  
 
 _This project was developed for educational and demonstration purposes._
